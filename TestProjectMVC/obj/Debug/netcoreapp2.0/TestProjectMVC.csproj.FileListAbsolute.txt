@@ -1,0 +1,11 @@
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/bin/Debug/netcoreapp2.0/TestProjectMVC.deps.json
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/bin/Debug/netcoreapp2.0/TestProjectMVC.runtimeconfig.json
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/bin/Debug/netcoreapp2.0/TestProjectMVC.runtimeconfig.dev.json
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/bin/Debug/netcoreapp2.0/TestProjectMVC.dll
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/bin/Debug/netcoreapp2.0/TestProjectMVC.pdb
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/obj/Debug/netcoreapp2.0/TestProjectMVC.csprojResolveAssemblyReference.cache
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/obj/Debug/netcoreapp2.0/TestProjectMVC.csproj.CoreCompileInputs.cache
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/obj/Debug/netcoreapp2.0/TestProjectMVC.AssemblyInfoInputs.cache
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/obj/Debug/netcoreapp2.0/TestProjectMVC.AssemblyInfo.cs
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/obj/Debug/netcoreapp2.0/TestProjectMVC.dll
+/Users/ildarzakirov/Projects/TestProjectMVC/TestProjectMVC/obj/Debug/netcoreapp2.0/TestProjectMVC.pdb

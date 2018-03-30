@@ -1,0 +1,25 @@
+﻿@model TestProjectMVC.Controllers.AutorizationContext
+
+<h4>Customer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="login">
+            <div class="form-group">
+                <label asp-for="Login" class="control-label">Имя</label>
+                <input asp-for="Login" class="form-control" />
+                <span asp-validation-for="Login" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label">Логин</label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="text-danger field-validation-error">@ViewBag.error</div>
+            <div class="form-group">
+                <input type="submit" value="Войти" class="btn btn-default" />
+            </div>
+        </form>
+        <a href="@Url.Action("Regisration")">Создать нового пользователя</a>
+    </div>
+</div>
